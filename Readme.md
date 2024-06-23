@@ -1,12 +1,9 @@
-<div style="text-align: center;">
-  Online Banking System Project
-</div>
+## Online Banking System Project
 
 ---
 ---
-<div style="text-align: center;">
-Project Functionality
-</div>
+### Project Functionality
+
 
 ---
 
@@ -25,9 +22,7 @@ Project Functionality
 
 ---
 
-<div style="text-align: center;">
-Database Design
-</div>
+### Database Design
 
 ---
 My first priority will be establishing an effective database design to lay a solid groundwork for managing and ensuring the integrity of project data.
