@@ -55,13 +55,13 @@ Using a relational database for this scenario offers several advantages:
 ## **3- Analysis:**
 #### From requirements to ER diagram
 
-![ER Diagram](database\ER_diagram.png)
+![ER Diagram](.\database\ER_diagram.png)
 
 ## **4- logical design:**
 
 #### ER-to-Relational mapping
 
-![schema](database\database_schema.png)
+![schema](.\database\database_schema.png)
 
 ## **5- Database creation:**
 
